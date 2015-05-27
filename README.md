@@ -8,6 +8,8 @@ na segunda linha as arestas da arvore em ordem de inserção das mesmas.
 O arquivo saida.txt contem os valores das árvores geradoras de custo mínimo para as entradas dadas.
 
 Custo das arvores geradoras:
+
+
 entrada-1: 19
 
 entrada-2: 80
